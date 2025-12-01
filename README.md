@@ -30,6 +30,6 @@ Passionate about building scalable data pipelines, cloud workflows, and automate
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedDev1122&show_icons=true&count_private=true&theme=radical)
 
 ## 📫 Contact
-[Ahmed](ahmedelhosiny879@gmail.com)
+[Email Me](mailto:ahmedelhosiny879@gmail.com)
 
 
