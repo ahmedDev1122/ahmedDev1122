@@ -3,7 +3,7 @@
 <!--
 # Hi there 👋, I'm Ahmed
 
-## 🔹 About Me
+## About Me
 Data Engineering • MLOps • AI Automation  
 Passionate about building scalable data pipelines, cloud workflows, and automated AI systems for production.
  
